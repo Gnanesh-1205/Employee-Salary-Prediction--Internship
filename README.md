@@ -1,1 +1,1 @@
-# smart-finance-dashboard
+# Employee Salary Prediction
